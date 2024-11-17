@@ -9,7 +9,8 @@ DOMAIN-KEYWORD,bsky
 
 #others
 DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,speedtest
+#DOMAIN-KEYWORD,speedtest
+DOMAIN-KEYWORD,speed
 DOMAIN-KEYWORD,metacubex
 DOMAIN-KEYWORD,ipleak
 DOMAIN-KEYWORD,browserscan
