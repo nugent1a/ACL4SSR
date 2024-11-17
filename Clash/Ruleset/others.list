@@ -1,16 +1,16 @@
 #梯子
-- DOMAIN-KEYWORD,meimeiyun
-- DOMAIN-KEYWORD,一分机场
-- DOMAIN-KEYWORD,hongxingdl
+DOMAIN-KEYWORD,meimeiyun
+DOMAIN-KEYWORD,一分机场
+DOMAIN-KEYWORD,hongxingdl
   
 #看片
-- DOMAIN-KEYWORD,javdb
-- DOMAIN-KEYWORD,bsky
+DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,bsky
 
 #others
-- DOMAIN-KEYWORD,cloudflare
-- DOMAIN-KEYWORD,speedtest
-- DOMAIN-KEYWORD,metacubex
-- DOMAIN-KEYWORD,ipleak
-- DOMAIN-KEYWORD,browserscan
-- DOMAIN-KEYWORD,wcode
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,speedtest
+DOMAIN-KEYWORD,metacubex
+DOMAIN-KEYWORD,ipleak
+DOMAIN-KEYWORD,browserscan
+DOMAIN-KEYWORD,wcode
