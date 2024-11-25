@@ -44,3 +44,7 @@
 - IP-CIDR,35.186.203.63/32,no-resolve
 - IP-CIDR,35.190.85.69/32,no-resolve
 - IP-CIDR,35.244.241.247/32,no-resolve
+
+# TikTok IPv6s
+- IP-CIDR6,2404:9dc0:cd01::/48,no-resolve
+- IP-CIDR6,2404:9dc0:cd03::/48,no-resolve
