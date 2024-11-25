@@ -9,6 +9,11 @@
 - IP-CIDR,71.18.253.0/24,no-resolve
 - IP-CIDR,71.18.247.0/24,no-resolve
 
+- IP-CIDR,2.16.0.0/16,no-resolve
+- IP-CIDR,34.36.0.0/16,no-resolve
+- IP-CIDR,23.217.0.0/16,no-resolve
+- IP-CIDR,34.102.0.0/16,no-resolve
+
 # ByteDance IPs
 - IP-CIDR,199.103.24.0/24,no-resolve
 - IP-CIDR,71.18.0.0/16,no-resolve
